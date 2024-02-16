@@ -42,7 +42,7 @@ To get started with this project, follow the installation instructions below.
    npm start
    ```
 4. Open to view it in the browser:  
-<a href="https://morifer79.github.io/next-project_crm/"><img src="https://badgen.net/badge/🌎 www:/Next CRM/yellow?icon=browser" alt="Badge"/></a>  
+<a href="https://next-rb5kncgv4-morifer79s-projects.vercel.app/"><img src="https://badgen.net/badge/🌎 www:/Next CRM/yellow?icon=browser" alt="Badge"/></a>  
 
 ## Email me :  
 Questions, suggestions, help:  

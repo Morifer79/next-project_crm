@@ -22,7 +22,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ※ TypeScript: for strict typing of data types.  
 ※ clsx: for conditional application of a given class name.  
 ※ Formik: form library for React.  
-※ Quick Mocker: for backend data.  
+※ MockAPI: for backend data.  
 
 ## 𝕀𝕟𝕤𝕥𝕒𝕝𝕝𝕒𝕥𝕚𝕠𝕟 ᎓ 
 
@@ -42,10 +42,7 @@ To get started with this project, follow the installation instructions below.
    npm start
    ```
 4. Open to view it in the browser:  
-<a href="https://next-rb5kncgv4-morifer79s-projects.vercel.app/"><img src="https://badgen.net/badge/🌎 www:/Next CRM/yellow?icon=browser" alt="Badge"/></a>
-
-5. For further testing add to the address bar:  
-  /companies  
+<a href="https://next-crm-chi.vercel.app/companies/"><img src="https://badgen.net/badge/🌎 www:/Next CRM/yellow?icon=browser" alt="Badge"/></a> 
 
 ## Email me :  
 Questions, suggestions, help:  
